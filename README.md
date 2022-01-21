@@ -6,8 +6,9 @@ Amazon's Vine program is a service that allows manufacturers and publishers to r
 ## Results
 
 Video games with
-* Helpful votes feedback greater than 50%
+* Helpful vote feedback greater than 50%
 * Total votes greater than 20
+
 were used to create a more meaningful dataset for analysis. 
 
 How many Vine reviews and non-Vine reviews were there?
