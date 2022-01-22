@@ -5,7 +5,8 @@ Amazon's Vine program is a service that allows manufacturers and publishers to r
 
 ## Results
 
-An ETL process was implemented on data obtained from an Amazon S3 source for video game reviews. Over 1.7 million reviews were compiled in this data, which was filtered down to 40,565 by using reviews with:
+An ETL process was implemented on data obtained from an Amazon S3 source for video game reviews. 40,565 reviews were filter down from over 1.7 million data points by using the following criteria:
+* remove empty data
 * helpful vote feedback greater than 50%
 * total votes greater than 20
 
