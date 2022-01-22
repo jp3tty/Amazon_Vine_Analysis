@@ -9,13 +9,9 @@ An ETL process was implemented on data obtained from an Amazon S3 source for vid
 * helpful vote feedback greater than 50%
 * total votes greater than 20
 
-From these, only 94 were Vine reviews and 40,471 were non-Vine reviews. A breakdown from the data can be seen in the table below:
+From these, 94 were Vine reviews and 40,471 were non-Vine reviews. A breakdown from the data can be seen in the table below:
 
 ![Rating_Percentage](https://github.com/jp3tty/Amazon_Vine_Analysis/blob/main/Images/Rating_Percentage.PNG)
-
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 starts? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 
 ## Summary
