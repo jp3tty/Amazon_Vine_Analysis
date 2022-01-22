@@ -15,5 +15,5 @@ From these, 94 were Vine reviews and 40,471 were non-Vine reviews. A breakdown f
 
 
 ## Summary
-State if there is any positivity bias for reviews in the program.
-Provide on additional analysis that you could do with the dataset to support your statement.
+
+Video game manufacturers and publishers appear to benefit from being a part of the Amazon Vine program. The table above shows that Vine members receive 5-star ratings 51% of the time, while non-Vine members receive 5-star ratings 38% of the time. Based on these results it's clear that there is a positivity bias with Vine memberships when it comes to product reviews. To further investigate for positivity bias the data could be grouped into percentages for each star rating.
